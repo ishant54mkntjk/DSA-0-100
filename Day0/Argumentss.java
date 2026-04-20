@@ -1,6 +1,5 @@
 package Day0;
-
-public class Arguments{
+public class Argumentss{
     public static void max(int a, int b, int c){
         if(a>b && a>c){
             System.out.println("a is greater");
