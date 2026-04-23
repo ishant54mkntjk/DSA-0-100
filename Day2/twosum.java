@@ -11,7 +11,6 @@ public class twosum {
                     System.out.println("Pair found: "+x[i]+" and "+x[j]);
                     i++;
                     j--;
-                    
                 }
                 else if(x[i]+x[j]<target){
                     i++;
