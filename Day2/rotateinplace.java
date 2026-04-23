@@ -5,7 +5,7 @@ public class rotateinplace {
         int[] arr ={5,2,6,7,9,2,8};
         int n = arr.length;
         int r =2;
-        r =r%n;
+        r =((r%n) + n)%n;
         if(r<0){
             r =r + n;
         }
