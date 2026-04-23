@@ -16,6 +16,7 @@ public class Searchinarray {
         if(!found){
             System.out.println("Element not found");
         }
+        sc.close();
     }
     
 }

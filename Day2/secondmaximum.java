@@ -12,7 +12,7 @@ public class secondmaximum {
         }
         int max = Integer.MIN_VALUE;
         int secondmax = Integer.MIN_VALUE;
-        boolean found =false;
+        // boolean found =false;
         for(int i=0;i<n;i++){
             if(x[i]>max){
                 secondmax = max;
@@ -21,7 +21,7 @@ public class secondmaximum {
             }
             else if( x[i]>secondmax && x[i]!=max){
                 secondmax =x[i];
-            found =true;
+            // found =true;
             }
         }
         // if(found){
@@ -37,6 +37,7 @@ public class secondmaximum {
         else{
             System.out.println("Found "+secondmax);
         }
+        sc.close();
     }
     
 }
