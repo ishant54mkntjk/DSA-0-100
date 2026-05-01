@@ -5,10 +5,11 @@ public class rotateinplace {
         int[] arr ={5,2,6,7,9,2,8};
         int n = arr.length;
         int r =2;
-        r =((r%n) + n)%n;
         if(r<0){
             r =r + n;
         }
+        r =(r%n);
+        
         reverse(arr,0,r-1);
         reverse(arr,r,n-1);
         reverse(arr,0,n-1);

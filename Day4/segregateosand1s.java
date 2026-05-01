@@ -2,7 +2,7 @@ package Day4;
 
 public class segregateosand1s{
     public static void main(String[] args) {
-        int[] arr= {0,0,1,0,1,0};
+        int[] arr= {0,0,0,0,1,0};
         int n=arr.length;
 
        int i=0;
