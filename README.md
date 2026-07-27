@@ -16,5 +16,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
