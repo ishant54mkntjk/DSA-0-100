@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0771-jewels-and-stones) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2942-find-words-containing-character](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/2942-find-words-containing-character) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -49,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0541-reverse-string-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
