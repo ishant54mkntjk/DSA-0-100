@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0771-jewels-and-stones) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0541-reverse-string-ii) |
 ## Combinatorics
 |  |
