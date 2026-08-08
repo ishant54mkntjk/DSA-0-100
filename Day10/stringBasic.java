@@ -1,7 +1,7 @@
-package Day9.String;
-import java.util.*;
-public class string {
-    static void main(){
+package Day10;
+
+public class stringBasic {
+   public static void main(String[] args) {
         String firstName = new String("ishant");
         String lastName= "yadav";
         System.out.println(firstName+ " " +lastName);
