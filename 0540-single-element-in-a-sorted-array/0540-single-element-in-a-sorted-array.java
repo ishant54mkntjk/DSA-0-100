@@ -17,15 +17,34 @@ class Solution {
         // }
         // return -1;
 
-        for(int i=0;i<n;i++){
-            if(i>0 && nums[i]==nums[i-1]){
-                continue;
-            }
-            if(i<n-1 && nums[i] == nums[i+1]){
-                continue;
-            }
-            return nums[i];
+    //     for(int i=0;i<n;i++){
+    //         if(i>0 && nums[i]==nums[i-1]){
+    //             continue;
+    //         }
+    //         if(i<n-1 && nums[i] == nums[i+1]){
+    //             continue;
+    //         }
+    //         return nums[i];
+    //     }
+    //  return -1;
+
+    int low=0;
+    int high =n-1;
+    while(low<high){
+        int mid =low +(high-low)/2;
+
+        if(mid%2==1){
+            mid--;
         }
-     return -1;
+        if(nums[mid]==nums[mid+1]){
+            // means single value is in right
+            low =mid+2;
+        }
+        else{
+            // means single value is in left
+            high =mid;
+        }
+    }
+    return nums[low];
     }
 }
