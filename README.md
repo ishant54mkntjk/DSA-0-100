@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0771-jewels-and-stones) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0540-single-element-in-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/2942-find-words-containing-character) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
