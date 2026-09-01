@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0486-predict-the-winner) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2942-find-words-containing-character](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0409-longest-palindrome) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
 | ------- |
