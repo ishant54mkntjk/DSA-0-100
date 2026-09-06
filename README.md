@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0540-single-element-in-a-sorted-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
