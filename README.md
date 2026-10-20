@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0274-h-index) |
+| [0414-third-maximum-number](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0274-h-index](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0540-single-element-in-a-sorted-array) |
