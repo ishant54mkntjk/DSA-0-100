@@ -5,12 +5,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0486-predict-the-winner) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0274-h-index) |
+| [0506-relative-ranks](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3536-maximum-product-of-two-digits) |
@@ -18,25 +21,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0771-jewels-and-stones) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2942-find-words-containing-character](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -45,18 +54,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0274-h-index](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0486-predict-the-winner) |
+| [0506-relative-ranks](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0560-subarray-sum-equals-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/2942-find-words-containing-character) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0409-longest-palindrome) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
 | ------- |
@@ -67,12 +87,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0541-reverse-string-ii) |
 ## Combinatorics
 |  |
@@ -81,6 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
@@ -102,4 +129,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0540-single-element-in-a-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0577-employee-bonus](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0620-not-boring-movies) |
+| [1068-product-sales-analysis-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1075-project-employees-i) |
+| [1148-article-views-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1280-students-and-examinations) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1661-average-time-of-process-per-machine](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1661-average-time-of-process-per-machine) |
+| [1683-invalid-tweets](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1683-invalid-tweets) |
+| [1757-recyclable-and-low-fat-products](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1757-recyclable-and-low-fat-products) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
