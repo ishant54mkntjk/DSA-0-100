@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0506-relative-ranks) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3536-maximum-product-of-two-digits) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0560-subarray-sum-equals-k) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/2942-find-words-containing-character) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3718-smallest-missing-multiple-of-k) |
