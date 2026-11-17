@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0414-third-maximum-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
