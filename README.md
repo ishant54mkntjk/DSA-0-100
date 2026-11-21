@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0414-third-maximum-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0409-longest-palindrome) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0283-move-zeroes) |
