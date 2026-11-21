@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0506-relative-ranks) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0414-third-maximum-number) |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0540-single-element-in-a-sorted-array) |
 ## Database
 |  |
@@ -192,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
