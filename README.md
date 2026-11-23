@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0018-4sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0409-longest-palindrome) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ishant54mkntjk/DSA-0-100/tree/master/0018-4sum) |
